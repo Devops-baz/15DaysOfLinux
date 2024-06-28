@@ -10,7 +10,7 @@ Whether you're starting your Linux journey or looking to deepen your skills, our
 ## How to Participate 🌟
 **Daily Tasks:** Engage with new challenges daily to enhance your Linux proficiency.
 **Structured Learning:** Follow our curated path designed for continuous improvement.
-**Achieve Mastery: **Join BAZTechKnow today and unlock your full potential in just 15 days!
+**Achieve Mastery:** Join _BAZTechKnow_ today and unlock your full potential in just 15 days!
 
 ## The Challenge 🏆
 A new task is presented daily in the tasks.md file located within a dedicated folder of our GitHub repository. These tasks guide you through practical exercises, helping you solidify your understanding of core Linux concepts.
