@@ -21,4 +21,4 @@ GitHub Link:  [https://github.com/baztechknow/15DaysOfLinux/](https://github.com
 
 Are you ready to elevate your Linux skills? Join the 15-Day Linux Challenge with BAZTechKnow and take your expertise to new heights!
 
-#15DaysOfLinux #LinuxChallenge #BAZTechKnow #LinuxSkills #LinuxMastery #TechSkills #LinuxLearning #LearnLinux #TechChallenge #30DayChallenge #LinuxDevelopment #LinuxTasks #LinuxJourney #TechEducation #TechEmpowerment
+#15DaysOfLinux #BAZTechKnow #TechSkills #LinuxLearning #TechChallenge #15DayChallenge #LinuxTasks  #TechEducation #TechEmpowerment
