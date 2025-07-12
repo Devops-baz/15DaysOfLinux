@@ -2,7 +2,7 @@
 
 **Elevate Your Linux Proficiency with BAZTechKnow's 15-Day Challenge! 🚀**
 
-Are you ready to advance from _Linux_ knowledge to practical expertise? Join us for the 15-Day Linux Challenge by [BAZTechKnow](http://baztechknow.com/) —an intensive learning journey designed to refine your skills and boost your confidence.
+Are you ready to advance from _Linux_ knowledge to practical expertise? Join us for the 15-Day Linux Challenge by [BAZTechKnow](http://baztechknow.com/) — an extensive learning journey designed to refine your skills and boost your confidence.
 
 ## What You'll Learn 📝
 Whether you're starting your Linux journey or looking to deepen your skills, our daily challenges will guide you through essential commands, advanced scripting, and real-world applications. Each task is crafted to transform theoretical knowledge into practical mastery.
